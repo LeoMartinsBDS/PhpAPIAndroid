@@ -18,8 +18,6 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
         }
     }
 
-
-
 }
 function showUsuario($cod_user)
 {
